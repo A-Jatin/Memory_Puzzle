@@ -1,5 +1,4 @@
 # Memory Puzzle
-# Made by :-Jatin Ahuja & Shubhi Agrawal
 
 import random, pygame, sys
 from pygame.locals import *
